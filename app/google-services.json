@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "832084746504",
+    "firebase_url": "https://chatapp-4bfdf.firebaseio.com",
+    "project_id": "chatapp-4bfdf",
+    "storage_bucket": "chatapp-4bfdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832084746504:android:d0f442c9e51a160c",
+        "android_client_info": {
+          "package_name": "com.migremlin.app.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832084746504-438kce04vdgre73lqc6a6cgp9onuel80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADSs9eIC_7k8LgIXwiMUVcSTh6blphpYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
