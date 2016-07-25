@@ -21,7 +21,8 @@
         <activity
             android:name=".contactlist.ContactListActivity"
             android:parentActivityName=".login.ui.LoginActivity"
-            >
+            android:label="@string/contactlist.title"
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>
 
